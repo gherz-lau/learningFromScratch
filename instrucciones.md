@@ -1,6 +1,7 @@
 # Instrucciones de Learning From Scratch
 
 > Tarea 1 : Crear un html de nombre index y subirlo como resultado del ejercicio, debera contener:
+
 > <sub>1 Junio 2022</sub>
 
 - [ ] Estructura/esqueleto completo de un archivo HTML
